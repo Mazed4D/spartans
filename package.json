@@ -1,0 +1,10 @@
+{
+    "name": "spartans-task",
+    "version": "1.0.0",
+    "description": "spartans task",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": ""
+}
